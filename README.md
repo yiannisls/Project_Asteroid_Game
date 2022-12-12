@@ -7,7 +7,7 @@ The repository incloudes a:
   
   ii)Unity3D project sources 
   
-  iii)Game Scenes, assets and Game Objects 
+  iii)Game Assets, Scenes and Game Objects 
   
   iii)Documentation:
   
