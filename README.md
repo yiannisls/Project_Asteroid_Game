@@ -1,7 +1,7 @@
 # Project_Asteroid_Game
 An Asteroid Game created for the 1st Assignemnt of the subject VIRTUALES.
 
-The repository incloudes a:
+The repository includes a:
 
   i)playable demo (EXE file for PC).
   
