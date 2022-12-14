@@ -1,5 +1,5 @@
 # Project_Asteroid_Game
-An Asteroid Game created for the 1st Assignemnt of the subject VIRTUALES.
+An Asteroid Game created for the 1st Assignemnt.
 
 The repository includes a:
  
